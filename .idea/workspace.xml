@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6079720-60cd-485e-90a0-ac096fd32afe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2rAAdlP64YGvCSPpubnUAvfTCB4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/project/spring-boot-starter/db-router/db-router-spring-boot-starter-test-main/db-router-spring-boot-starter-test-main/src/main/resources/mybatis/mapper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "7b790dd0-9f85-4d9e-95bc-7526f09f9cfb",
+      "7b790dd0-9f85-4d9e-95bc-7526f09f9cfb/schema/\"bugstack_01\"",
+      "7b790dd0-9f85-4d9e-95bc-7526f09f9cfb/schema/\"bugstack_02\""
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\spring-boot-starter\db-router\db-router-spring-boot-starter-test-main\db-router-spring-boot-starter-test-main\src\main\resources\mybatis\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApiTest.test_insertUser">
+    <configuration name="db-router-spring-boot-starter.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/../../db-router-spring-boot-starter-test-main/db-router-spring-boot-starter-test-main/db-router-spring-boot-starter.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="7b790dd0-9f85-4d9e-95bc-7526f09f9cfb" namespace="schema/&quot;bugstack_02&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiTest.test_insertUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="db-router-spring-boot-starter-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bugstack.middleware.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_101" />
+      <option name="PACKAGE_NAME" value="cn.bugstack.middleware.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.bugstack.middleware.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_insertUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_queryUserInfoByUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="db-router-spring-boot-starter-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bugstack.middleware.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.bugstack.middleware.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.bugstack.middleware.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_queryUserInfoByUserId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="db-router-spring-boot-starter-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bugstack.middleware.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.bugstack.middleware.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.bugstack.middleware.test.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="db-router-spring-boot-starter-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="db-router-spring-boot-starter-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Database Script.db-router-spring-boot-starter.sql" />
+      <item itemvalue="JUnit.ApiTest.test_queryUserInfoByUserId" />
+      <item itemvalue="JUnit.test.test" />
+      <item itemvalue="JUnit.ApiTest.test_insertUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiTest.test_insertUser" />
+        <item itemvalue="JUnit.test.test" />
+        <item itemvalue="Database Script.db-router-spring-boot-starter.sql" />
+        <item itemvalue="JUnit.ApiTest.test_queryUserInfoByUserId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6079720-60cd-485e-90a0-ac096fd32afe" name="Changes" comment="" />
+      <created>1735991596973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735991596973</updated>
+      <workItem from="1735991598093" duration="41564000" />
+      <workItem from="1738215760554" duration="362000" />
+      <workItem from="1738216301745" duration="5352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.6/mybatis-spring-2.0.6.jar!/org/mybatis/spring/transaction/SpringManagedTransaction.class</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.10.RELEASE/spring-jdbc-5.2.10.RELEASE.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.class</url>
+          <line>109</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.10.RELEASE/spring-jdbc-5.2.10.RELEASE.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.class</url>
+          <line>55</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/config/DataSourceAutoConfig.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/dynamic/DynamicDataSource.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/dynamic/DynamicDataSource.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../db-router-spring-boot-starter-test-main/db-router-spring-boot-starter-test-main/src/test/java/cn/bugstack/middleware/test/ApiTest.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/config/DataSourceAutoConfig.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.6/mybatis-spring-2.0.6-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java</url>
+          <line>426</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.10.RELEASE/spring-jdbc-5.2.10.RELEASE-sources.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.java</url>
+          <line>226</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.10.RELEASE/spring-jdbc-5.2.10.RELEASE-sources.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.java</url>
+          <line>225</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../db-router-spring-boot-starter-test-main/db-router-spring-boot-starter-test-main/src/test/java/cn/bugstack/middleware/test/ApiTest.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.10.RELEASE/spring-jdbc-5.2.10.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceUtils.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.10.RELEASE/spring-jdbc-5.2.10.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceUtils.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../db-router-spring-boot-starter-test-main/db-router-spring-boot-starter-test-main/src/test/java/cn/bugstack/middleware/test/ApiTest.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.10.RELEASE/spring-jdbc-5.2.10.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceUtils.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../db-router-spring-boot-starter-test-main/db-router-spring-boot-starter-test-main/src/test/java/cn/bugstack/middleware/test/ApiTest.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
